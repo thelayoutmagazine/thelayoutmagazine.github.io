@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0debdfc0-8add-47f0-a093-42d88a693554" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +35,9 @@
     <option name="projectConfigVersion" value="2" />
   </component>
   <component name="ProjectId" id="1k6fW6bxOz0ZG0NFpa4AE3v5WO5" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,8 +57,17 @@
       <option name="presentableId" value="Default" />
       <updated>1605025992791</updated>
       <workItem from="1605025993947" duration="28000" />
-      <workItem from="1605026044317" duration="72000" />
+      <workItem from="1605026044317" duration="408000" />
+      <workItem from="1605027371448" duration="458000" />
     </task>
+    <task id="LOCAL-00001" summary="SS: The Layout Magazine Setup">
+      <created>1605026224769</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605026224769</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,5 +84,16 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SS: The Layout Magazine Setup" />
+    <MESSAGE value="SS: Content Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="SS: Content Changes" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="89" key="Vcs.Push.Dialog.v2" timestamp="1605026227140">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="89" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1605026227140" />
   </component>
 </project>
